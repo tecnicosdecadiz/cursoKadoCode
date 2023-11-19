@@ -1,3 +1,48 @@
-a{
-    text-decoration: none;
+body {
+  font-family: 'Nunito', serif;
+  /* font-size: 48px; */
+}
+
+/* #generic */
+
+h1 {
+  text-align: center;
+}
+.center {
+  text-align: center;
+  justify-content: center;
+}
+
+table{
+  margin: 0 auto;
+}
+
+td{
+  vertical-align: top;
+}
+
+a {
+  text-decoration: none;
+}
+
+.imgCard {
+  border: 1px solid white;
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 300px;
+  max-height: 300px;
+  width: 300px;
+  height: 300px;
+}
+
+#restart {
+  display: none;
+}
+
+#result{
+  font-size: 40px;
+  text-align: center;
+  color: rgb(210, 208, 241);
 }
