@@ -53,18 +53,18 @@ export default function RockPaperScissorsScreen() {
   return (
     <>
       <h1>Piedra, Papel o Tijeras</h1>
-      <table border="0" width="50%" cellspacing="50" className="mt-5">
+      {/* <table border="0" width="50%" cellSpacing="50" className="mt-5">
         <tr>
           <td>
             <div>
               <div className="card" style={{ width: '18rem' }}>
                 <img src="assets/img/papel.png" style={{ width: '18rem' }} />
                 <div className="card-body">
-                  <h5 className="card-title">
+                  <div className="card-title">
                     <h3>
                       Puntos: <span id="playerPoints">0</span>
                     </h3>
-                  </h5>
+                  </div>
                 </div>
               </div>
 
@@ -103,7 +103,7 @@ export default function RockPaperScissorsScreen() {
             </div>
           </td>
         </tr>
-      </table>
+      </table> */}
 
       <p></p>
     </>

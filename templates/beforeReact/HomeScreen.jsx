@@ -16,7 +16,7 @@ export default function HomeScreen() {
             <p className="card-text">
               Trepidante juego, en el que perderas tu vida y moriras solo
             </p>
-            <Link to="/juego" className="btn btn-primary">
+            <Link to="juego" className="btn btn-primary">
               Acceder
             </Link>
           </div>
